@@ -261,7 +261,7 @@ const en: LocaleType = {
   },
   Store: {
     DefaultTopic: "New Conversation",
-    BotHello: "Hello! How can I assist you today?",
+    BotHello: "Hello, I'm ChatGPT. How can I assist you? 😃\n\n I can help you with **academic translation/proofreading between Chinese and English, and check for grammar errors**. 👏 \n\n What's that? You don't want to discuss academics? No worries, we can just have a friendly chat instead. 😁 \n\n Curious to see our research group? 👉[Click here right away](http://www.baigroup.online/)👈",
     Error: "Something went wrong, please try again later.",
     Prompt: {
       History: (content: string) =>
