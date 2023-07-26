@@ -257,7 +257,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "你好，我是ChatGPT，有什么可以帮助你的吗？😃 \n\n 我可以帮你进行**中英文学术翻译/润色，检查语法错误**👏 \n\n 什么？不喜欢和我讨论学术，那也可以跟我聊聊天😁 \n\n 想康康我们课题组？👉[赶紧点击这里](http://www.baigroup.online/)👈",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
